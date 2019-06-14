@@ -12,6 +12,7 @@
 		F4036B9022AF95C0003F643C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4036B8E22AF95C0003F643C /* Main.storyboard */; };
 		F4036B9222AF95C2003F643C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4036B9122AF95C2003F643C /* Assets.xcassets */; };
 		F4036B9522AF95C2003F643C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4036B9322AF95C2003F643C /* LaunchScreen.storyboard */; };
+		F42F294022AFABED00F5C990 /* CaptionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = F42F293F22AFABED00F5C990 /* CaptionOption.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F4036B9122AF95C2003F643C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4036B9422AF95C2003F643C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F4036B9622AF95C2003F643C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F42F293F22AFABED00F5C990 /* CaptionOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionOption.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				F4036B8A22AF95C0003F643C /* AppDelegate.swift */,
 				F4036B8C22AF95C0003F643C /* ViewController.swift */,
 				F4036B8E22AF95C0003F643C /* Main.storyboard */,
+				F42F293F22AFABED00F5C990 /* CaptionOption.swift */,
 				F4036B9122AF95C2003F643C /* Assets.xcassets */,
 				F4036B9322AF95C2003F643C /* LaunchScreen.storyboard */,
 				F4036B9622AF95C2003F643C /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F4036B8D22AF95C0003F643C /* ViewController.swift in Sources */,
+				F42F294022AFABED00F5C990 /* CaptionOption.swift in Sources */,
 				F4036B8B22AF95C0003F643C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
